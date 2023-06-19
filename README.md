@@ -1,6 +1,6 @@
 # Discord Frontend Clone
 
-Project url - https://discord-clone-tw.netlify.app/
+Project url - https://tailwind-discord-clone.netlify.app/
 
 This is a frontend clone of the Discord application built using HTML and Tailwind CSS. It replicates the visual appearance and layout of Discord's user interface.
 
